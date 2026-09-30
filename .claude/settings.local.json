@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -q -m 'Add Discord notifications and Torn Exchange mirror *)",
+      "Bash(git push *)"
+    ]
+  }
+}
